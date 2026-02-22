@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Nandini Sain, a student passionate about programming and building small projects. I love learning new technologies and improving my problem-solving skills.<br><br>🔭 Working on: Python projects, MySQL programs<br>🤝 Collaborate on: Beginner Python & student projects<br>🤔 Need help with: Logic building, MySQL + Python<br>🌱 Learning: Python, MySQL, C/C++ basics<br>💬 Ask me about: Python basics & simple programs<br>⚡ Fun fact: I learn best by building projects 😊
+Hi! I’m Nandini kumari, a student passionate about programming and building small projects. I love learning new technologies and improving my problem-solving skills.<br><br>🔭 Working on: Python projects, MySQL programs<br>🤝 Collaborate on: Beginner Python & student projects<br>🤔 Need help with: Logic building, MySQL + Python<br>🌱 Learning: Python, MySQL, C/C++ basics<br>💬 Ask me about: Python basics & simple programs<br>⚡ Fun fact: I learn best by building projects 😊
 
 
 ## 🌐 Socials:
